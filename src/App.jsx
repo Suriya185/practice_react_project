@@ -2,7 +2,6 @@ import MainContent from "./components/MainContent";
 import logo from "./assets/images/logo.png";
 
 function App() {
-  console.log("Testing lint errors");
   return (
     <>
       <header>
