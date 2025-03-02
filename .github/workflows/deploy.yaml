@@ -1,5 +1,6 @@
 name: deploy workflow
 on:
+  workflow_dispatch:
   push:
     branches:
       - "*"
