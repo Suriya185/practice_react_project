@@ -15,8 +15,8 @@
   "rules": {
     "react/react-in-jsx-scope": "off",
     "semi": [2, "always"],
-    "no-unused-vars": "warn",
-    "no-console": "warn"
+    "no-unused-vars": "error",
+    "no-console": "error"
   },
   "settings": {
     "react": {
